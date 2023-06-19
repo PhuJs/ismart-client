@@ -115,13 +115,13 @@
         <ul id="menu_responsive">
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Trang chủ</a>
+                    <a href="?">Trang chủ</a>
                     <span></span>
                 </div>
                 <ul class="sub_menu_responsive">
                     <li>
                         <div class="d-flex align-items-center">
-                            <a href="">Samsung</a>
+                            <a href="?page=product_cat">Samsung</a>
                             <span></span>
                         </div>
                         <ul class="sub_menu_responsive">
@@ -147,13 +147,13 @@
                     </li>
                     <li>
                         <div class="d-flex align-items-center">
-                            <a href="">Xiaomi</a>
+                            <a href="?page=product_cat">Xiaomi</a>
                             <span></span>
                         </div>
                     </li>
                     <li>
                         <div class="d-flex align-items-center">
-                            <a href="">Nokia</a>
+                            <a href="?page=product_cat">Nokia</a>
                             <span></span>
                         </div>
                     </li>
@@ -163,7 +163,7 @@
             <!-- 2 -->
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Điện thoại</a>
+                    <a href="?page=product_cat">Điện thoại</a>
                     <span></span>
                 </div>
                 <ul class="sub_menu_responsive">
@@ -190,7 +190,7 @@
             <!-- 3 -->
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Laptop</a>
+                    <a href="?page=product_cat">Laptop</a>
                     <span></span>
                 </div>
                 <ul class="sub_menu_responsive">
@@ -237,7 +237,7 @@
             <!-- 4 -->
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Đồng hồ</a>
+                    <a href="?page=product_cat">Đồng hồ</a>
                     <span></span>
                 </div>
                 <ul class="sub_menu_responsive">
@@ -264,14 +264,14 @@
             <!-- 5 -->
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Blog</a>
+                    <a href="?page=list_post">Blog</a>
                     <span></span>
                 </div>
             </li>
             <!-- 6 -->
             <li>
                 <div class="d-flex align-items-center">
-                    <a href="">Liên hệ</a>
+                    <a href="?page=about">Liên hệ</a>
                     <span></span>
                 </div>
             </li>

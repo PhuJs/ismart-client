@@ -2,3 +2,8 @@
 @import "./import/header.css";
 @import "./import/content.css";
 @import "./import/footer.css";
+@import "./import/about.css";
+@import "./import/cart.css";
+@import "./import/list_post.css";
+@import "./import/product_cat.css";
+@import "./import/payment.css";

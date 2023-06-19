@@ -1,0 +1,91 @@
+.vertical-center {
+    vertical-align: middle;
+}
+
+table {
+    background-color: #ffffff;
+}
+
+.hover:hover {
+    opacity: 0.7;
+}
+
+.outline_none {
+    outline: none;
+}
+
+.background_head {
+    background-color: #f1f1f1;
+}
+
+.table_cart {
+    overflow: scroll;
+}
+
+.total_cart{
+    margin-top:6px;
+    margin-bottom:20px;
+}
+
+.total_cart h3 {
+    text-align: right;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #555;
+}
+
+.total_cart span {
+    color: #0d6efd;
+    margin-left: 6px;
+    text-transform: lowercase;
+}
+
+.payment_cart{
+    text-align:right;
+}
+
+.cart_text{
+    margin-top:35px;
+}
+
+.cart_text p{
+    font-size: 15px;
+    font-family: 'Roboto';
+    color: #555;
+    margin-bottom: 6px;
+}
+
+.cart_text a{
+    font-size: 14px;
+    font-family: 'Roboto';
+}
+
+/* `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {}
+
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .total_cart h3 {
+        font-size: 17px;
+    }
+
+    .cart_text{
+        margin-top:30px;
+    }
+    
+}
+
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .table_cart .table {
+        width: 1000px;
+    }
+}
+
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
+
+/* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {}

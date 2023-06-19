@@ -5,9 +5,9 @@
 
 .box_logo {
     font-size: 27px;
-    font-weight: 600;
+    font-weight: 700;
     text-transform: uppercase;
-    color: #da1818;
+    color: #0d6efd;
     margin-bottom: 25px;
 }
 
@@ -90,14 +90,14 @@
     border: none;
     margin-top: 6px;
     outline: none;
-    background-color: #da1818;
+    background-color: #0d6efd;
     color: #ffffff;
     text-transform: uppercase;
     font-weight: 500;
 }
 
 #footer_boot {
-    background-color: #da1818;
+    background-color: #0d6efd;
     padding: 8px 0;
     text-align: center;
 }
